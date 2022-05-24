@@ -5,7 +5,7 @@
 	box-sizing: border-box;
 }
 body{
-	background: url(Images/Suit.jpg) no-repeat;
+	background: url(Suit.jpg) no-repeat;
 	height: 100vh;
 	background-size: cover;
 	background-position: center;
